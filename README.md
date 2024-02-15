@@ -59,11 +59,6 @@ FIGURE-02
 
 
 
-FIGURE -03
-
-
-
-
 ## PROGRAM 
  
  ```
